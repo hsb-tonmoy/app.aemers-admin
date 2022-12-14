@@ -13,7 +13,7 @@ const config = {
 				secondary: '#232323',
 				lightText: '#898989',
 				lighterText: '#727272',
-				borderColor: '#E3D9FF',
+				borderColor: '#009D65',
 				bgColor: '#F9F6FF',
 				dividerColor: '#BEBEBE',
 				greenSignal: '#01CF85',

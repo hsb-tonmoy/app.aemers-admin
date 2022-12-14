@@ -1,23 +1,23 @@
 <script>
 	import { page } from '$app/stores';
-	import { Account, Application, Home, Logout, Video } from '$lib/components/Icons';
+	import { Account, Folder, Home, Logout, UserGroup } from '$lib/components/Icons';
 
 	let menuitems = [
 		{
-			name: 'Home',
+			name: 'Dashboard',
 			icon: Home,
 			link: '/',
 			alternate_links: []
 		},
 		{
-			name: 'Application',
-			icon: Application,
+			name: 'Converted Clients',
+			icon: Folder,
 			link: '/welcome_application',
 			alternate_links: []
 		},
 		{
-			name: 'Mock Interview',
-			icon: Video,
+			name: 'Student Info',
+			icon: UserGroup,
 			link: '/mock_visa_interview',
 			alternate_links: ['mock_visa_interview']
 		},

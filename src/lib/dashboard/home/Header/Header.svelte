@@ -9,8 +9,10 @@
 
 <header class="flex justify-between items-center overflow-hidden">
 	<div class="flex flex-col gap-y-2">
-		<h2 class="text-2xl md:text-4xl 2xl:text-5xl font-bold">Hello {first_name}</h2>
-		<h6 class="text-lighterText text-base md:text-lg 2xl:text-xl">Explore Aemers from here...</h6>
+		<h2 class="text-2xl md:text-4xl 2xl:text-5xl text-primary font-bold">Hello {first_name}</h2>
+		<h6 class="text-lighterText text-base md:text-lg 2xl:text-xl">
+			Welcome to app.aemers Admin Portal
+		</h6>
 	</div>
 	<div class="flex items-center gap-x-6">
 		<button

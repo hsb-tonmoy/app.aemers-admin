@@ -61,3 +61,5 @@ export { default as Trash } from './Trash.svelte';
 export { default as Upload } from './Upload.svelte';
 export { default as Video } from './Video.svelte';
 export { default as Robot } from './Robot.svelte';
+export { default as Folder } from './Folder.svelte';
+export { default as UserGroup } from './UserGroup.svelte';
